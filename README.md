@@ -37,7 +37,7 @@ Me chamo Clístenes Rodger, sou natural de Pernambuco. Concluí o ensino médio 
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -112,7 +112,7 @@ Me chamo Clístenes Rodger, sou natural de Pernambuco. Concluí o ensino médio 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=clistenesrodger&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
@@ -120,7 +120,7 @@ Me chamo Clístenes Rodger, sou natural de Pernambuco. Concluí o ensino médio 
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      style="padding-right: 10px;"
+      style="padding-right: 5px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=clistenesrodger&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
